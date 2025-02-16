@@ -28,7 +28,7 @@ function App() {
           </div>
         </div>
       </header>
-
+      {/* Lower sector of the page that will be visible when the get started button is clicked */}
       <div className={`event-list-container ${showVenue ? 'visible' : ''}`}>
         <ConferenceEvent />
       </div>
