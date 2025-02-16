@@ -6,7 +6,7 @@ This project is a conference event planner application. It allows users to brows
 
 This project is intended for reference and educational purposes only. It demonstrates a basic implementation of a conference event planner using React and Redux.
 
-<a href="https://clod.github.io/REACT-Conference-Expense-Planner-Prototype/">Live Demo</a
+<a href="https://clod.github.io/REACT-Conference-Expense-Planner-Prototype/">Live Demo</a>
 
 ## Features
 
